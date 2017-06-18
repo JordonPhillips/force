@@ -13,6 +13,12 @@ This has various conveniences, such as being able to query all measured switches
 * gspread (Python)
 * requests (Python)
 
+These can be installed py running:
+
+```bash
+pip install -r /path/to/repo/Plotly/requirements.txt
+```
+
 
 ## Configuration
 
